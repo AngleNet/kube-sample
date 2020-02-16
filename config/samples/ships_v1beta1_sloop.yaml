@@ -1,0 +1,7 @@
+apiVersion: ships.k8s.io/v1beta1
+kind: Sloop
+metadata:
+  name: sloop-sample
+spec:
+  # Add fields here
+  foo: bar

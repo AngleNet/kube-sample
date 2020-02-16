@@ -1,0 +1,7 @@
+domain: k8s.io
+repo: k8s.io/hello
+resources:
+- group: ships
+  kind: Sloop
+  version: v1beta1
+version: "2"
